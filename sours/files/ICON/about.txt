@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Sogdian
+- Font Author: Copyright 2019 Google Inc. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosanssogdian/v15/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
